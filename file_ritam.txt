@@ -1,0 +1,2 @@
+hey ritam The mean is: 3383.5
+The variance is: 9055261.0
